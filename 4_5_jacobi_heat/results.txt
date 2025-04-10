@@ -1,0 +1,137 @@
+Experiment Results
+================================
+Running Jacobi Heat sequential...
+
+
+Convergence in 2617 iterations
+
+Calculated in 1.950894 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 1.941974 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 1.935332 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 1.945700 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 1.945444 seconds
+--------------------------------
+Running Jacobi Heat parallel with 2 threads...
+
+
+Convergence in 2617 iterations
+
+Calculated in 1.053745 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 1.048254 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 1.039363 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 1.048565 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 1.038292 seconds
+--------------------------------
+Running Jacobi Heat parallel with 4 threads...
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.614742 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.603507 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.607268 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.601591 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.612114 seconds
+--------------------------------
+Running Jacobi Heat parallel with 8 threads...
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.437760 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.433873 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.436657 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.446164 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.447377 seconds
+--------------------------------
+Running Jacobi Heat parallel with 12 threads...
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.946117 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.374126 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.909826 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.369921 seconds
+
+
+Convergence in 2617 iterations
+
+Calculated in 0.363859 seconds
+--------------------------------

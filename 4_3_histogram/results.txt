@@ -1,0 +1,137 @@
+Histogram Calculation Experiment Results
+=========================================
+Running Histogram Sequential...
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 1.508538 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 1.166782 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 1.178174 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 1.167542 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 1.156237 seconds
+--------------------------------
+Running Histogram Parallel with 2 threads...
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.244655 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.278907 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.259343 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.296846 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.247782 seconds
+--------------------------------
+Running Histogram Parallel with 4 threads...
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.226301 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.226961 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.238192 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.234826 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.283035 seconds
+--------------------------------
+Running Histogram Parallel with 8 threads...
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.240891 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.239571 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.237478 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.239548 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.241067 seconds
+--------------------------------
+Running Histogram Parallel with 12 threads...
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.234919 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.229413 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.229743 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.238795 seconds
+width: 6000 (18000)
+height: 4000
+stride: 18000
+padding: 0
+Calculated in 0.260378 seconds
+--------------------------------

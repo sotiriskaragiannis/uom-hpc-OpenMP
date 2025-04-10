@@ -1,0 +1,126 @@
+Backsubstitution Experiment Results
+================================
+Running backsub sequential for size 1000...
+Calculated in 0.000454 seconds
+Calculated in 0.000457 seconds
+Calculated in 0.000436 seconds
+Calculated in 0.000435 seconds
+Calculated in 0.000437 seconds
+Running backsub parallel with 2 threads for size 1000...
+Calculated in 0.000418 seconds
+Calculated in 0.000377 seconds
+Calculated in 0.000409 seconds
+Calculated in 0.000385 seconds
+Calculated in 0.000395 seconds
+Running backsub parallel with 4 threads for size 1000...
+Calculated in 0.000287 seconds
+Calculated in 0.000275 seconds
+Calculated in 0.000252 seconds
+Calculated in 0.000281 seconds
+Calculated in 0.000250 seconds
+Running backsub parallel with 8 threads for size 1000...
+Calculated in 0.000268 seconds
+Calculated in 0.000214 seconds
+Calculated in 0.000206 seconds
+Calculated in 0.000234 seconds
+Calculated in 0.000234 seconds
+Running backsub parallel with 12 threads for size 1000...
+Calculated in 0.000271 seconds
+Calculated in 0.000205 seconds
+Calculated in 0.000205 seconds
+Calculated in 0.000196 seconds
+Calculated in 0.000197 seconds
+--------------------------------
+Running backsub sequential for size 5000...
+Calculated in 0.011382 seconds
+Calculated in 0.011404 seconds
+Calculated in 0.011409 seconds
+Calculated in 0.011309 seconds
+Calculated in 0.011329 seconds
+Running backsub parallel with 2 threads for size 5000...
+Calculated in 0.008663 seconds
+Calculated in 0.008790 seconds
+Calculated in 0.008784 seconds
+Calculated in 0.008681 seconds
+Calculated in 0.008657 seconds
+Running backsub parallel with 4 threads for size 5000...
+Calculated in 0.005341 seconds
+Calculated in 0.005365 seconds
+Calculated in 0.005441 seconds
+Calculated in 0.005405 seconds
+Calculated in 0.005332 seconds
+Running backsub parallel with 8 threads for size 5000...
+Calculated in 0.003943 seconds
+Calculated in 0.003821 seconds
+Calculated in 0.003895 seconds
+Calculated in 0.003925 seconds
+Calculated in 0.003941 seconds
+Running backsub parallel with 12 threads for size 5000...
+Calculated in 0.003368 seconds
+Calculated in 0.003335 seconds
+Calculated in 0.003370 seconds
+Calculated in 0.003251 seconds
+Calculated in 0.003397 seconds
+--------------------------------
+Running backsub sequential for size 10000...
+Calculated in 0.045149 seconds
+Calculated in 0.045785 seconds
+Calculated in 0.046061 seconds
+Calculated in 0.045408 seconds
+Calculated in 0.045369 seconds
+Running backsub parallel with 2 threads for size 10000...
+Calculated in 0.036169 seconds
+Calculated in 0.036151 seconds
+Calculated in 0.036038 seconds
+Calculated in 0.035096 seconds
+Calculated in 0.034813 seconds
+Running backsub parallel with 4 threads for size 10000...
+Calculated in 0.020921 seconds
+Calculated in 0.021019 seconds
+Calculated in 0.020910 seconds
+Calculated in 0.021008 seconds
+Calculated in 0.021081 seconds
+Running backsub parallel with 8 threads for size 10000...
+Calculated in 0.014739 seconds
+Calculated in 0.014706 seconds
+Calculated in 0.014686 seconds
+Calculated in 0.014644 seconds
+Calculated in 0.014705 seconds
+Running backsub parallel with 12 threads for size 10000...
+Calculated in 0.012345 seconds
+Calculated in 0.012331 seconds
+Calculated in 0.012292 seconds
+Calculated in 0.012390 seconds
+Calculated in 0.012384 seconds
+--------------------------------
+Running backsub sequential for size 20000...
+Calculated in 0.187709 seconds
+Calculated in 0.183984 seconds
+Calculated in 0.183127 seconds
+Calculated in 0.182350 seconds
+Calculated in 0.183642 seconds
+Running backsub parallel with 2 threads for size 20000...
+Calculated in 0.139847 seconds
+Calculated in 0.139324 seconds
+Calculated in 0.137532 seconds
+Calculated in 0.137788 seconds
+Calculated in 0.137346 seconds
+Running backsub parallel with 4 threads for size 20000...
+Calculated in 0.083671 seconds
+Calculated in 0.086948 seconds
+Calculated in 0.083489 seconds
+Calculated in 0.082810 seconds
+Calculated in 0.083226 seconds
+Running backsub parallel with 8 threads for size 20000...
+Calculated in 0.056215 seconds
+Calculated in 0.056135 seconds
+Calculated in 0.057241 seconds
+Calculated in 0.056138 seconds
+Calculated in 0.056135 seconds
+Running backsub parallel with 12 threads for size 20000...
+Calculated in 0.048573 seconds
+Calculated in 0.048285 seconds
+Calculated in 0.049723 seconds
+Calculated in 0.048116 seconds
+Calculated in 0.048371 seconds
+--------------------------------

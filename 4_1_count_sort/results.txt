@@ -1,0 +1,126 @@
+Count Sort Experiment Results
+================================
+Running sequential for size 25000...
+Done in 0.132198 seconds
+Done in 0.128165 seconds
+Done in 0.128593 seconds
+Done in 0.129224 seconds
+Done in 0.128885 seconds
+Running parallel with 2 threads for size 25000...
+Done in 0.056316 seconds
+Done in 0.056076 seconds
+Done in 0.056090 seconds
+Done in 0.056389 seconds
+Done in 0.057644 seconds
+Running parallel with 4 threads for size 25000...
+Done in 0.041742 seconds
+Done in 0.030012 seconds
+Done in 0.028505 seconds
+Done in 0.028004 seconds
+Done in 0.028877 seconds
+Running parallel with 8 threads for size 25000...
+Done in 0.032964 seconds
+Done in 0.028613 seconds
+Done in 0.028498 seconds
+Done in 0.028638 seconds
+Done in 0.028594 seconds
+Running parallel with 12 threads for size 25000...
+Done in 0.025785 seconds
+Done in 0.020815 seconds
+Done in 0.020751 seconds
+Done in 0.021290 seconds
+Done in 0.019145 seconds
+--------------------------------
+Running sequential for size 50000...
+Done in 0.507712 seconds
+Done in 0.510186 seconds
+Done in 0.509986 seconds
+Done in 0.506419 seconds
+Done in 0.506261 seconds
+Running parallel with 2 threads for size 50000...
+Done in 0.228547 seconds
+Done in 0.223613 seconds
+Done in 0.221246 seconds
+Done in 0.220488 seconds
+Done in 0.276312 seconds
+Running parallel with 4 threads for size 50000...
+Done in 0.136417 seconds
+Done in 0.118575 seconds
+Done in 0.117415 seconds
+Done in 0.134295 seconds
+Done in 0.114090 seconds
+Running parallel with 8 threads for size 50000...
+Done in 0.115820 seconds
+Done in 0.113769 seconds
+Done in 0.113741 seconds
+Done in 0.113736 seconds
+Done in 0.110168 seconds
+Running parallel with 12 threads for size 50000...
+Done in 0.088128 seconds
+Done in 0.080791 seconds
+Done in 0.078516 seconds
+Done in 0.083190 seconds
+Done in 0.081014 seconds
+--------------------------------
+Running sequential for size 100000...
+Done in 2.069119 seconds
+Done in 2.061991 seconds
+Done in 2.073122 seconds
+Done in 2.077806 seconds
+Done in 2.081353 seconds
+Running parallel with 2 threads for size 100000...
+Done in 0.928405 seconds
+Done in 0.924251 seconds
+Done in 0.934208 seconds
+Done in 0.915777 seconds
+Done in 0.904004 seconds
+Running parallel with 4 threads for size 100000...
+Done in 0.481994 seconds
+Done in 0.470035 seconds
+Done in 0.462035 seconds
+Done in 0.458921 seconds
+Done in 0.463820 seconds
+Running parallel with 8 threads for size 100000...
+Done in 0.375893 seconds
+Done in 0.378711 seconds
+Done in 0.371399 seconds
+Done in 0.374131 seconds
+Done in 0.383354 seconds
+Running parallel with 12 threads for size 100000...
+Done in 0.332005 seconds
+Done in 0.317111 seconds
+Done in 0.317416 seconds
+Done in 0.318293 seconds
+Done in 0.313069 seconds
+--------------------------------
+Running sequential for size 200000...
+Done in 8.320753 seconds
+Done in 8.324778 seconds
+Done in 8.771960 seconds
+Done in 8.885790 seconds
+Done in 9.046493 seconds
+Running parallel with 2 threads for size 200000...
+Done in 3.904244 seconds
+Done in 3.878804 seconds
+Done in 3.869969 seconds
+Done in 3.785014 seconds
+Done in 3.871142 seconds
+Running parallel with 4 threads for size 200000...
+Done in 2.007554 seconds
+Done in 2.043022 seconds
+Done in 1.949455 seconds
+Done in 1.990112 seconds
+Done in 1.985687 seconds
+Running parallel with 8 threads for size 200000...
+Done in 1.562531 seconds
+Done in 1.515965 seconds
+Done in 1.696339 seconds
+Done in 1.445536 seconds
+Done in 1.594466 seconds
+Running parallel with 12 threads for size 200000...
+Done in 1.415493 seconds
+Done in 1.275212 seconds
+Done in 1.376534 seconds
+Done in 1.297378 seconds
+Done in 1.366923 seconds
+--------------------------------

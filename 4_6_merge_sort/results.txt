@@ -1,0 +1,130 @@
+Mergesort Experiment Results
+================================
+Running mergesort sequential for size 10000...
+Sorted in 0.000566 seconds
+Sorted in 0.000518 seconds
+Sorted in 0.000527 seconds
+Sorted in 0.000642 seconds
+Sorted in 0.000515 seconds
+--------------------------------
+Running mergesort sequential for size 100000...
+Sorted in 0.006243 seconds
+Sorted in 0.006347 seconds
+Sorted in 0.006163 seconds
+Sorted in 0.006165 seconds
+Sorted in 0.006170 seconds
+--------------------------------
+Running mergesort sequential for size 1000000...
+Sorted in 0.072759 seconds
+Sorted in 0.071841 seconds
+Sorted in 0.072594 seconds
+Sorted in 0.072613 seconds
+Sorted in 0.072419 seconds
+--------------------------------
+Running mergesort sequential for size 10000000...
+Sorted in 0.820181 seconds
+Sorted in 0.816095 seconds
+Sorted in 0.814752 seconds
+Sorted in 0.854395 seconds
+Sorted in 0.824559 seconds
+--------------------------------
+Running mergesort parallel with 2 threads for size 10000...
+Sorted in 0.000322 seconds
+Sorted in 0.000327 seconds
+Sorted in 0.000319 seconds
+Sorted in 0.000303 seconds
+Sorted in 0.000310 seconds
+Running mergesort parallel with 4 threads for size 10000...
+Sorted in 0.000370 seconds
+Sorted in 0.000354 seconds
+Sorted in 0.000341 seconds
+Sorted in 0.000372 seconds
+Sorted in 0.000345 seconds
+Running mergesort parallel with 8 threads for size 10000...
+Sorted in 0.003938 seconds
+Sorted in 0.000372 seconds
+Sorted in 0.000415 seconds
+Sorted in 0.000388 seconds
+Sorted in 0.000396 seconds
+Running mergesort parallel with 12 threads for size 10000...
+Sorted in 0.010999 seconds
+Sorted in 0.000453 seconds
+Sorted in 0.000416 seconds
+Sorted in 0.000441 seconds
+Sorted in 0.010762 seconds
+--------------------------------
+Running mergesort parallel with 2 threads for size 100000...
+Sorted in 0.003047 seconds
+Sorted in 0.003058 seconds
+Sorted in 0.002957 seconds
+Sorted in 0.002997 seconds
+Sorted in 0.003122 seconds
+Running mergesort parallel with 4 threads for size 100000...
+Sorted in 0.003017 seconds
+Sorted in 0.002868 seconds
+Sorted in 0.002765 seconds
+Sorted in 0.002663 seconds
+Sorted in 0.002952 seconds
+Running mergesort parallel with 8 threads for size 100000...
+Sorted in 0.002665 seconds
+Sorted in 0.002838 seconds
+Sorted in 0.002578 seconds
+Sorted in 0.002198 seconds
+Sorted in 0.002328 seconds
+Running mergesort parallel with 12 threads for size 100000...
+Sorted in 0.009978 seconds
+Sorted in 0.003476 seconds
+Sorted in 0.002253 seconds
+Sorted in 0.002273 seconds
+Sorted in 0.002069 seconds
+--------------------------------
+Running mergesort parallel with 2 threads for size 1000000...
+Sorted in 0.028768 seconds
+Sorted in 0.030235 seconds
+Sorted in 0.031463 seconds
+Sorted in 0.031646 seconds
+Sorted in 0.030641 seconds
+Running mergesort parallel with 4 threads for size 1000000...
+Sorted in 0.028807 seconds
+Sorted in 0.026792 seconds
+Sorted in 0.027345 seconds
+Sorted in 0.028396 seconds
+Sorted in 0.027961 seconds
+Running mergesort parallel with 8 threads for size 1000000...
+Sorted in 0.022676 seconds
+Sorted in 0.023784 seconds
+Sorted in 0.024341 seconds
+Sorted in 0.023907 seconds
+Sorted in 0.023349 seconds
+Running mergesort parallel with 12 threads for size 1000000...
+Sorted in 0.019306 seconds
+Sorted in 0.019089 seconds
+Sorted in 0.021274 seconds
+Sorted in 0.021350 seconds
+Sorted in 0.020459 seconds
+--------------------------------
+Running mergesort parallel with 2 threads for size 10000000...
+Sorted in 0.295967 seconds
+Sorted in 0.334007 seconds
+Sorted in 0.339050 seconds
+Sorted in 0.318494 seconds
+Sorted in 0.333935 seconds
+Running mergesort parallel with 4 threads for size 10000000...
+Sorted in 0.285261 seconds
+Sorted in 0.259356 seconds
+Sorted in 0.292316 seconds
+Sorted in 0.288230 seconds
+Sorted in 0.291005 seconds
+Running mergesort parallel with 8 threads for size 10000000...
+Sorted in 0.256850 seconds
+Sorted in 0.259035 seconds
+Sorted in 0.257380 seconds
+Sorted in 0.273546 seconds
+Sorted in 0.259486 seconds
+Running mergesort parallel with 12 threads for size 10000000...
+Sorted in 0.198892 seconds
+Sorted in 0.244833 seconds
+Sorted in 0.216872 seconds
+Sorted in 0.210039 seconds
+Sorted in 0.218799 seconds
+--------------------------------

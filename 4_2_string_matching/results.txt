@@ -1,0 +1,112 @@
+String Matching Experiment Results
+================================
+Running String Matching sequential...
+
+file size is 10000000
+Total matches = 1
+Found in 0.006418 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.006419 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.006424 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.006380 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.006539 seconds
+--------------------------------
+Running String Matching parallel with 2 threads...
+
+file size is 10000000
+Total matches = 1
+Found in 0.004168 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.004294 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.004227 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.004633 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.004306 seconds
+--------------------------------
+Running String Matching parallel with 4 threads...
+
+file size is 10000000
+Total matches = 1
+Found in 0.002209 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.002191 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.002177 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.002315 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.002213 seconds
+--------------------------------
+Running String Matching parallel with 8 threads...
+
+file size is 10000000
+Total matches = 1
+Found in 0.001912 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.001918 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.001970 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.001911 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.002071 seconds
+--------------------------------
+Running String Matching parallel with 12 threads...
+
+file size is 10000000
+Total matches = 1
+Found in 0.012568 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.001408 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.004918 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.001496 seconds
+
+file size is 10000000
+Total matches = 1
+Found in 0.002244 seconds
+--------------------------------

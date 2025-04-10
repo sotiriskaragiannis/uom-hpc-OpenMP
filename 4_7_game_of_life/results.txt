@@ -1,0 +1,37 @@
+Game of Life Experiment Results
+================================
+Running Game of Life sequential...
+Calculated in 4.709293 seconds
+Calculated in 4.599052 seconds
+Calculated in 4.582155 seconds
+Calculated in 4.654132 seconds
+Calculated in 4.623629 seconds
+--------------------------------
+Running Game of Life parallel with 2 threads...
+Calculated in 3.944765 seconds
+Calculated in 3.917332 seconds
+Calculated in 3.913920 seconds
+Calculated in 3.894184 seconds
+Calculated in 3.920209 seconds
+--------------------------------
+Running Game of Life parallel with 4 threads...
+Calculated in 2.250270 seconds
+Calculated in 2.265533 seconds
+Calculated in 2.252303 seconds
+Calculated in 2.262384 seconds
+Calculated in 2.285634 seconds
+--------------------------------
+Running Game of Life parallel with 8 threads...
+Calculated in 2.288923 seconds
+Calculated in 2.303067 seconds
+Calculated in 2.318062 seconds
+Calculated in 2.306036 seconds
+Calculated in 2.293432 seconds
+--------------------------------
+Running Game of Life parallel with 12 threads...
+Calculated in 1.831632 seconds
+Calculated in 3.527643 seconds
+Calculated in 2.929723 seconds
+Calculated in 2.878114 seconds
+Calculated in 1.809964 seconds
+--------------------------------
